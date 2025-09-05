@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GanadorActivity"
+    android:background="@color/green3">
+
+    <TextView
+        android:id="@+id/hasganadoTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="15dp"
+        android:background="@drawable/fondo_ganador"
+        android:text="ENHORABUENA HAS GANADO!"
+        android:textAlignment="center"
+        android:textColor="@color/green4"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <LinearLayout
+        android:id="@+id/laxau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/hasganadoTv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="25dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center|bottom">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:textColor="@color/green4"
+                android:text="ACIERTOS"/>
+            <TextView
+                android:id="@+id/ganadoraciertos"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:textSize="40sp"
+                android:textStyle="bold"
+
+                android:textColor="@color/green4"
+                android:layout_marginLeft="10dp"
+                android:textAlignment="center"
+                android:text="10"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:textColor="@color/green4"
+                android:textAlignment="center"
+                android:layout_marginLeft="5dp"
+                android:text="-"/>
+            <TextView
+                android:id="@+id/ganadorfallos"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:textSize="40sp"
+                android:textColor="@color/green4"
+                android:layout_marginRight="10dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:text="4"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/green4"
+                android:text="FALLOS"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/ganadortiempo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="50dp"
+            android:textColor="@color/green4"
+            android:textAlignment="center"
+            android:text="40 min 8 s"/>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/botonMostrarPartida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+
+        android:layout_gravity="center"
+        android:background="@drawable/button_ganador_effect"
+        android:textSize="27sp"
+        android:textColor="@color/green4"
+        style="?android:attr/borderlessButtonStyle"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:textAllCaps="false"
+        android:text="MOSTRAR PARTIDA"
+        android:elevation="10dp"
+        app:layout_constraintTop_toBottomOf="@id/laxau"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+
+    <Button
+        android:id="@+id/botonMarcadorPersonal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"
+        android:layout_gravity="center"
+        android:background="@drawable/button_ganador_effect"
+        android:textSize="27sp"
+        android:textColor="@color/green4"
+        style="?android:attr/borderlessButtonStyle"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:textAllCaps="false"
+        android:text="MARCADOR PERSONAL"
+        android:elevation="10dp"
+        app:layout_constraintTop_toBottomOf="@id/botonMostrarPartida"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <Button
+        android:id="@+id/botonMarcadorGlobal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"
+        android:layout_gravity="center"
+        android:background="@drawable/button_ganador_effect"
+        android:textSize="27sp"
+        android:textColor="@color/green4"
+        style="?android:attr/borderlessButtonStyle"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:textAllCaps="false"
+        android:text="MARCADOR GLOBAL"
+        android:elevation="10dp"
+        app:layout_constraintTop_toBottomOf="@id/botonMarcadorPersonal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <Button
+        android:id="@+id/botonVolveraJugar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"
+        android:layout_gravity="center"
+        android:background="@drawable/button_ganador_effect"
+        android:drawableLeft="@drawable/replay"
+        android:textSize="29sp"
+        android:textColor="@color/green4"
+        style="?android:attr/borderlessButtonStyle"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="28dp"
+        android:textAllCaps="false"
+        android:text="VOLVER A JUGAR"
+        android:elevation="10dp"
+        app:layout_constraintTop_toBottomOf="@id/botonMarcadorGlobal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Preguntas</string>
+    <string name="registrarse"><u>Registrarse</u></string>
+    <string name="usuario"><u>Usuario</u></string>
+    <string name="tiempo"><u>TIEMPO</u></string>
+    <string name="aciertos"><u>ACIERTOS</u></string>
+    <string name="fallos"><u>FALLOS</u></string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable-v24/border_color.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable-v24/button_border.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable-v24/button_effect.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable-v24/button_incorrecto.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/border_color.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_border.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_correcto.xml" value="0.290625" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_effect.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_fracasao.xml" value="0.290625" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_fracasao_effect.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_ganador.xml" value="0.290625" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_ganador_effect.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/button_incorrecto.xml" value="0.290625" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/fondo_fracasao.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/fondo_ganador.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/ic_baseline_replay_24.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/marcador.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/recyclerviewitem_correcto.xml" value="0.290625" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/recyclerviewitem_incorrecto.xml" value="0.290625" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/drawable/replayf.xml" value="0.18355263157894736" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/font/aldrich.xml" value="0.1924342105263158" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/font/anton.xml" value="0.1924342105263158" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/font/audiowide.xml" value="0.1924342105263158" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/font/bangers.xml" value="0.1924342105263158" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/font/calligraffitti.xml" value="0.1924342105263158" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/font/scoreboard.xml" value="0.1924342105263158" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_fracasao.xml" value="0.264" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_ganador.xml" value="0.264" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_marcadorglobal.xml" value="0.2" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_marcadorpersonal.xml" value="0.264" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_menu.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/activity_resultados.xml" value="0.152" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/border_color.xml" value="0.159375" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/fragment_pregunta.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/recyclerview_item.xml" value="0.2" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/recyclerview_item2.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/recyclerview_maarcador_item.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/recyclerview_marcador_item.xml" value="0.2" />
+        <entry key="..\:/Users/yagos/AndroidStudioProjects/Preguntas/app/src/main/res/layout/recyclerview_personal_item.xml" value="0.264" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/drawable/button_fracasao_effect.xml" value="0.240625" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/drawable/fondo_fracasao.xml" value="0.240625" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/drawable/fondo_ganador.xml" value="0.240625" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/drawable/recyclerviewitem_correcto.xml" value="0.240625" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/drawable/recyclerviewitem_correcto2.xml" value="0.240625" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/layout/activity_fracasao.xml" value="0.4" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/layout/activity_ganador.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/layout/activity_resultados.xml" value="0.4" />
+        <entry key="..\:/Users/yagos/OneDrive/Escritorio/pruebafinal/Preguntas/app/src/main/res/layout/recyclerview_item.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

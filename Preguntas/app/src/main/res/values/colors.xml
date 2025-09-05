@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryVariant">#323C7E</color>
+    <color name="colorPrimary">#5667A6</color>
+    <color name="colorAccent">#8E9AD5</color>
+
+    <color name="colorPrimaryVariant1">#42327E</color>
+    <color name="colorPrimary1">#6756A6</color>
+    <color name="colorAccent1">#9C8ED5</color>
+
+    <color name="colorPrimaryVariant2">#6A327E</color>
+    <color name="colorPrimary2">#9556A6</color>
+    <color name="colorAccent2">#C88ED5</color>
+
+    <color name="colorPrimaryVariant3">#7E327D</color>
+    <color name="colorPrimary3">#A356A6</color>
+    <color name="colorAccent3">#D58ECE</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_300">#8530FF</color>
+    <color name="purple_400">#701EE4</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_600">#4800AF</color>
+    <color name="purple_700">#280061</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green">#317F43</color>
+    <color name="green2">#00BA18</color>
+    <color name="green3">#098125</color>
+    <color name="green3.5">#03651A</color>
+    <color name="green4.5">#044313</color>
+    <color name="green4">#03370F</color>
+    <color name="greenlight">#1EEA0B</color>
+    <color name="red">#AC2828</color>
+    <color name="red2">#F61212</color>
+    <color name="red3">#DA1919</color>
+    <color name="red4">#921313</color>
+    <color name="red5">#650D0D</color>
+    <color name="red6">#600404</color>
+    <color name="red8">#3E0000</color>
+    <color name="red7">#B12626</color>
+    <color name="gris">#303030</color>
+    <color name="black">#FF000000</color>
+    <color name="black2">#0E0E0E</color>
+    <color name="black3">#191919</color>
+    <color name="black4">#2C2C2C</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="whiteclear">#99FFFFFF</color>
+    <color name="whiteclear2">#CBFFFFFF</color>
+    <color name="whiteclear3">#C4FFFFFF</color>
+    <color name="marcador">#ff8040</color>
+    <color name="marcador2">#FA722E</color>
+    <color name="marcador3">#ff8040</color>
+    <color name="enlace">#085BE4</color>
+    <color name="enlace2">#0645ad</color>
+</resources>
